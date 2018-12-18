@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Environment Sensors</string>
+    <string name="sensors_light_without">Without sensors light.</string>
 </resources>
